@@ -5,5 +5,6 @@ steps
 4. php artisan migrate
 5. php artisan serve
 6. php artisan queue:work
-7. 
+7. http://localhost:8000/upload
+8. http://localhost:8000/contacts
 
